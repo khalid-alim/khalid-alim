@@ -9,7 +9,19 @@
 - ✍️ Writing about **governance entropy**  
 
 ### 🌍 Where to Find Me  
-[![Website](https://img.shields.io/badge/Website-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://notkhalid.com)  
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=Substack&logoColor=white)](https://notkhalid.substack.com/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/kaime)  
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white)](mailto:notkhalid8@gmail.com)
+
+<a href="https://notkhalid.com" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="28" alt="Website"/> Website
+</a>  
+
+<a href="https://notkhalid.substack.com/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/substack.png" width="28" alt="Substack"/> Substack
+</a>  
+
+<a href="mailto:notkhalid8@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" width="28" alt="Email"/> Email
+</a>  
+
+<a href="https://x.com/kaime" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitter.png" width="28" alt="Twitter"/> Twitter
+</a>
