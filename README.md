@@ -9,7 +9,7 @@
 - ✍️ Writing about **governance entropy**  
 
 ### 🎧 Currently Listening To  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rjvlo6ljpqiph4dudlux35czqi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31rjvlo6ljpqiph4dudlux35czqi)  
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rjvlo6ljpqiph4dudlux35czqi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31rjvlo6ljpqiph4dudlux35czqi)
 
 ### 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalid-alim&show_icons=true&theme=radical)  
