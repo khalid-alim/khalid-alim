@@ -1,27 +1,30 @@
-## Hi, I'm Khalid 👋  
+# Hi, I'm Khalid
 
-🔹 Researcher, Programmer, Artist, Writer  
-🔹 Exploring **AI governance, decision boundaries & legal architectures**  
+I’m a researcher, programmer, artist, and writer, currently diving into some tricky but fascinating topics:
+- **Legal architectures** (and why societies need more robust governance blueprints)  
+- **Governance entropy** (all the ways systems get messy over time)  
+- **Decision boundaries and transitions** (how we handle those big “pivot points” in technology and policy)
 
-### 🚀 What I'm Working On  
-- 🏗️ Developing frameworks for **compute attribution in AI**  
-- 📖 Studying **decision-making models**  
-- ✍️ Writing about **governance entropy**  
+---
 
-### 🌍 Where to Find Me  
+## What I’m Doing Now
 
-<a href="https://notkhalid.com" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="28" alt="Website"/> Website
-</a>  
+- **Compute Attribution in AI**  
+  I’m developing frameworks that reconcile technical and legal definitions of “computational resource usage.” My aim is to make them both **meaningful** *and* **enforceable**—no small feat, but I’m excited by the challenge.
 
-<a href="https://notkhalid.substack.com/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/substack.png" width="28" alt="Substack"/> Substack
-</a>  
+- **Reading, Writing, Thinking**  
+  At the moment, I’m reading about how different fields (law, economics, and tech) can collaborate more effectively. If you’re also bridging multiple domains, I’d love to compare notes.
 
-<a href="mailto:notkhalid8@gmail.com">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" width="28" alt="Email"/> Email
-</a>  
+---
 
-<a href="https://x.com/kaime" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitter.png" width="28" alt="Twitter"/> Twitter
-</a>
+## Where I'm From
+
+- I'm originally from Nairobi, Kenya, I graduated from the University of Minnesota, where I focused on **Politics, Philosophy, and Economics**.  
+
+---
+
+## Explore & Connect
+
+This site (and my repos) offer a snapshot of what’s on my mind lately. If something here resonates with you or sparks a question, I’d love to hear from you.
+
+**[Let’s talk →](mailto:notkhalid@gmail.com)**
